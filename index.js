@@ -31,5 +31,5 @@ const { clear } = flags;
 
 	const chalk = (await import(`chalk`)).default;
 
-	console.log("Operation completed successfully.");
+	console.log("Operations completed successfully.");
 })();
