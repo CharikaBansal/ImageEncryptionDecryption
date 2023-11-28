@@ -4,7 +4,7 @@
  * imcrypt
  * An image encryption node-js cli
  *
- * @author theninza <https://theninza.me>
+ * 
  */
 
 const init = require('./utils/init');
