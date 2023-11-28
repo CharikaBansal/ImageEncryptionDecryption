@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Imcrypt
 
 A CLI that encrypts and decrypts png, jpg, jpeg images to a gibberish image and provides you the key to unlock it later so that you have the complete control of your images.
@@ -110,3 +111,6 @@ An image encryption node-js cli
 ## Limitations
 
 While encryption and decryption is perfect on the png images. On jpg and jpeg, the operation is not perfect. Jpg and jpeg images are lossy and while encryption and decryption, a few pixels values are changed. The decrypted image is however, very similar to the original image but with a few pixels changed.
+=======
+# ImageEncryptionDecryption
+>>>>>>> origin/main
